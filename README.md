@@ -1,2 +1,2 @@
-# image-files-translator
-Copies and renames image files after translating them (for SEO purposes)
+# Qabiria's Image Files Translator
+Copies and renames image files after translating them (for SEO purposes).
