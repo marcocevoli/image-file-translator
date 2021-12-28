@@ -9,3 +9,5 @@ You'll need Python 3 on your computer.
 5. The program will duplicate all image files renaming these copies with automatically translated names.
 
 It's just a proof of concept. Feel free to take what you need, as long as you respect the license.
+
+The program is sponsored by Qabiria (https://qabiria.com)
