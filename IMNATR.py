@@ -9,7 +9,7 @@ from googletrans import Translator
 
 translator = Translator()
 
-# Define languages to choose from
+# Define languages to choose from. 
 
 langs = ['ca', 'en', 'es', 'it']
 
